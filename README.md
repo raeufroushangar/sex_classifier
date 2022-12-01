@@ -1,6 +1,6 @@
 # Description:
 
-Traning and validating logistic regression model to classify the sex (male vs. female) of 1,956 aml patients from gene expression data (2,761 expression arrays) in scikit-learn. The model has 96.01 (+/- 0.08) traning/validation accuracy. The data, code, and supplementary materials can all be found here
+Traning and validating logistic regression model to classify the sex (male vs. female) of 1,956 aml patients from gene expression data (2,761 expression arrays) in scikit-learn. The model has 96.01 (+/- 0.08) traning/validation accuracy. The data, code, and supplementary materials can all be found here.
 
 
 **Confusion Matrix:**
